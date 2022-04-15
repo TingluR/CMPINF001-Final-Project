@@ -15,4 +15,4 @@
 </ul>
 
 ### Overview
-<p>The project uses three different submetrics: <strong><em>Arrest Rates, Natural Environment Conditions</em></strong> and <strong><em>Firearm Seizures</em></strong> to measure and analyze the best neighborhood in Pittsburgh and the best neighborhood we came up with is Regent Square.</p>
+<p>The project uses three different submetrics: <strong><em>Arrest Rates, Natural Environment Conditions</em></strong> and <strong><em>Firearm Seizures</em></strong> to measure and analyze the best neighborhood in Pittsburgh and the best neighborhood is Regent Square based on our metric.</p>
